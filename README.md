@@ -20,9 +20,9 @@
 
 ## Annotation Format | 标注格式
 
-**EN**: Annotations follow the YOLO format: one `.txt` file per image, single class `person` (class_id = 0). Note: this repository releases **images only**; annotations are available upon reasonable request (contact: [待填]).
+**EN**: Annotations follow the YOLO format: one `.txt` file per image, single class `person` (class_id = 0). Note: this repository releases **images only**; annotations are available upon reasonable request (contact: wangguoxu@sylu.edu.cn).
 
-**中文**：标注采用 YOLO 格式，每张图像对应一个 `.txt` 标签文件，单类 `person`（class_id = 0）。注意：本仓库仅发布图像，标注可通过合理申请联系作者获取（联系方式：[待填]）。
+**中文**：标注采用 YOLO 格式，每张图像对应一个 `.txt` 标签文件，单类 `person`（class_id = 0）。注意：本仓库仅发布图像，标注可通过合理申请联系作者获取（联系方式：wangguoxu@sylu.edu.cn）。
 
 ## Dataset Structure | 目录结构
 
@@ -49,4 +49,10 @@ images/
 
 ## Authors & Contact | 作者与联系方式
 
-[待填]
+**EN**: Authors: Wenbo Chang, Guoxu Wang, Umar Yahya
+
+Corresponding author: Guoxu Wang (wangguoxu@sylu.edu.cn)
+
+**中文**：作者：Wenbo Chang、Guoxu Wang、Umar Yahya
+
+通讯作者：Guoxu Wang（wangguoxu@sylu.edu.cn）
